@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gianluca124/Gianluca124/G.png" width="400">
+  <img src="https://raw.githubusercontent.com/Gianluca124/Gianluca124.github.io/images/G.png" width="400">
 </p>
 
 <h1 align="center">Hi everyone 👋, I'm Gianluca Cavallaro</h1>
