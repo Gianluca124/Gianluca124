@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gianluca124/Gianluca124/G.png" width="400">
+</p>
+
 <h1 align="center">Hi everyone 👋, I'm Gianluca Cavallaro</h1>
 <h3 align="center">I'm currently studying Data Science at University of Milano-Bicocca</h3>
 
